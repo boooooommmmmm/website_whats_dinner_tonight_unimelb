@@ -2,7 +2,7 @@
 
 This is a website for random choose what's today's dinner. Currently for unimelb only.
 
-The website had published on [my site](heep://www.hushuyan.com/dinner).
+The website had published on [my site](http://www.hushuyan.com/dinner).
 
 <br />
 
