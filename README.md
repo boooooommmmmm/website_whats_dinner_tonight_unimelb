@@ -10,7 +10,7 @@ The website had published on [my site](www.hushuyan.com/dinner).
 
 Some code comes from Internet
 
-Thanks for DALAO Larry for chreating Java random pick algorithm. The original source code is [here](RandomPick.java)
+Thanks for DALAO Larry for creating Java random-pick algorithm. The original source code is [here](RandomPick.java)
 
 <br />
 
